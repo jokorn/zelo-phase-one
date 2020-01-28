@@ -13,6 +13,11 @@ page_sections:
   block: one-column-1
   headline: Tekst i en søjle
   content: mere tekst, mere tekst
+menu:
+  main:
+    identifier: home
+    weight: 1
+    title: Home
 published: false
 
 ---
