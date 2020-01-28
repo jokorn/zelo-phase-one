@@ -6,15 +6,19 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: abe
+    link_text: abe
+  - link: about
+    link_text: about
 - template: content-feature
   block: feature-1
   media_alignment: Right
-  headline: ''
-  content: ''
+  headline: Test content-feature
+  content: her er content
   media:
-    image: ''
-    alt_text: ''
+    image: "/uploads/2020/01/28/priscilla-du-preez-YXJ3EGKPlCY-unsplash-2.jpg"
+    alt_text: Mand med computer
 published: false
 
 ---
