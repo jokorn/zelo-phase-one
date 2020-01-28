@@ -6,7 +6,9 @@ page_sections:
 - template: navigation-header
   block: header-1
   logo: ''
-  navigation: []
+  navigation:
+  - link: abe
+    link_text: abe
 published: false
 
 ---
