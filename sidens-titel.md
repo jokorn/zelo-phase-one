@@ -9,6 +9,10 @@ page_sections:
   navigation:
   - link: abe
     link_text: abe
+- template: 1-column-text
+  block: one-column-1
+  headline: Tekst i en søjle
+  content: mere tekst, mere tekst
 published: false
 
 ---
